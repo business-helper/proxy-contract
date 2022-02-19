@@ -30,6 +30,25 @@
           }
         }
       }
+    },
+    "de02d0c25691fb3647977a644ad9ecc4f7c52f6cb33e891472aad37033e40ecc": {
+      "address": "0x0B1942465bE5e414d30DB28F32aFD7a0C8c17aa9",
+      "txHash": "0xfe164a75c1fd9ffb20af316e47cbebbbfaf4b8edd7d0a7079121da1909fece81",
+      "layout": {
+        "storage": [
+          {
+            "contract": "BoxV2",
+            "label": "_value",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BoxV2.sol:6"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256"
+          }
+        }
+      }
     }
   }
 }
